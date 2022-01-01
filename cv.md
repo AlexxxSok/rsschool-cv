@@ -13,6 +13,11 @@ I am talented and dependable administrator, skilled in all aspects of management
 - HTML5
 - CSS3 
 ## Code Examples
+```
+function multiply(a, b){
+  return a * b
+}
+```
 ## Education
  - Grodno State University - International Economic Relations
  - IT-Academy -Accredited Software Business Analysis Course (certificate IQBBA)
