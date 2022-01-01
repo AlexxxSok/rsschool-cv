@@ -6,7 +6,7 @@ Frontend Developer (Beginner)
 - E-mail: <Aleh.Sakalou@gmail.com>
 - GitHub: AlexxxSok
 - Telegram @AlexxxSok
-- Linkdin Oleg Sokolov
+- Linkdin 
 ## About Me
 I am talented and dependable administrator, skilled in all aspects of management in small company. I have strong background in sells and negotiations. Extremely motivated for career change goal to realize my potential by learning  new areas of knowledge and gaining new skills. 
 ## Skills
