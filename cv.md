@@ -7,28 +7,30 @@ Frontend Developer (Beginner)
 - GitHub: AlexxxSok
 - Telegram @AlexxxSok
 - Linkdin 
+  
 ## About Me
 I am talented and dependable administrator, skilled in all aspects of management in small company. I have strong background in sells and negotiations. Extremely motivated for career change goal to realize my potential by learning  new areas of knowledge and gaining new skills. 
+
 ## Skills
 - HTML5
-- CSS3 
+- CSS3
+  
 ## Code Examples
 ```
 function multiply(a, b){
   return a * b
 }
 ```
+## Education projects
+ -**UDEMY** -  [Full course of JavaScript + React] (https://www.udemy.com/course/javascript_full/) (in process)
+
 ## Education
- - Grodno State University - International Economic Relations
- - IT-Academy -Accredited Software Business Analysis Course (certificate IQBBA)
- - RS Schools Course - «JavaScript/Front-end. Stage 0» (in progress)
+
+ - **Grodno State University** - International Economic Relations
+ - **IT-Academy** -Accredited Software Business Analysis Course (certificate IQBBA)
+ - **RS Schools Course** - «JavaScript/Front-end. Stage 0» (in process)
+  
 ## Languages
 - English - B1 (B2 in process)
 - Polish - C1 (graduated from the Polish Lyceum: fluently speak,read and write)
 - Russian - Native 
-
-
-
-
-
-
