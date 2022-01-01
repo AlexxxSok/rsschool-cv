@@ -14,7 +14,6 @@ I am talented and dependable administrator, skilled in all aspects of management
 - CSS3 
 ## Code Examples
 ## Education
-
  - Grodno State University - International Economic Relations
  - IT-Academy -Accredited Software Business Analysis Course (certificate IQBBA)
  - RS Schools Course - «JavaScript/Front-end. Stage 0» (in progress)
