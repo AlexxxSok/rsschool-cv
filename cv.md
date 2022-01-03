@@ -24,8 +24,8 @@ function multiply(a, b){
 }
 ```
 ## Education Projects
- -**UDEMY** -  [Full course of JavaScript + React] (https://www.udemy.com/course/javascript_full/) (in process)
- -**RS Schools Course** - «JavaScript/Front-end. Stage 0» (in process)
+- **UDEMY** -  [Full course of JavaScript + React] (https://www.udemy.com/course/javascript_full/) (in process)
+- **RS Schools Course** - «JavaScript/Front-end. Stage 0» (in process)
 
 ## Education
 
